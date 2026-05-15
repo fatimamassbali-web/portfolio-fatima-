@@ -78,7 +78,8 @@ Desktop and mobile versions
 https://fatimamassbali-web.github.io/portfolio-fatima-/
 
 📸 Screenshot
-screenshot.png.png
+
+![Portfolio Screenshot](screenshot.png)
 
 📚 What I Learned
 Structuring a complete front-end project
