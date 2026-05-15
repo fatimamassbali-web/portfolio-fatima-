@@ -71,7 +71,7 @@ GitHub Pages
 🎨 Design
 UI/UX designed with Figma
 Desktop and mobile versions
-🔗 Figma design link: (add your Figma link here)
+🔗 Figma design link: https://www.figma.com/design/3bQfwaWhKfhsrn2FqeL75Y/Fatima-Ezzahra-Massbali-s-team-library?node-id=3311-2&t=vfSQ5GKJ7Gg33gBt-1
 
 🌍 Live Demo
 🔗 Website link:
