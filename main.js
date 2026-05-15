@@ -1,20 +1,18 @@
-// Check JS
-console.log("JS is working");
-
-// Smooth scroll to projects
-const btn = document.getElementById("btnProjects");
+// Scroll to projects section
+const btn = document.querySelector(".btn");
+const projectsSection = document.querySelector("#projects");
 
 btn.addEventListener("click", () => {
-  document.querySelector("#projects").scrollIntoView({
-    behavior: "smooth"
-  });
+  projectsSection.scrollIntoView({ behavior: "smooth" });
 });
 
-// Simple interaction (projects buttons)
-const buttons = document.querySelectorAll(".open");
+// Contact form interaction
+const form = document.querySelector("form");
 
-buttons.forEach(btn => {
-  btn.addEventListener("click", () => {
-    alert("Project opened!");
-  });
+form.addEventListener("submit", (e) => {
+  e.preventDefault();
+
+  alert("Message sent successfully! Thank you 😊");
+
+  form.reset();
 });
